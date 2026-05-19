@@ -1,1 +1,1 @@
-# veri-organizasyonu
+# veri-organizasyonu.
